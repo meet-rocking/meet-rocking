@@ -7,4 +7,7 @@ My name is Meet Patel. I am Machine Learning Specialist who loves to build Deep 
 - Operating System - Windows, Kali Linux
 
 Loves to visualize ML:
-![Alt Text](multi_agent_SARSA.gif)
+
+optimition                 |  Reinforcement Learning
+:-------------------------:|:-------------------------:
+![](optimizer.gif)         |  ![](multi_agent_SARSA.gif)
