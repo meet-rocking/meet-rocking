@@ -7,3 +7,6 @@ optimition                 |  Reinforcement Learning
 :-------------------------:|:-------------------------:
 ![](optimizer.gif)         |  ![](multi_agent_SARSA.gif)
 ![](animation.gif)         | ![](Pac_man.gif)  
+
+
+https://github-readme-medium-recent-article.vercel.app/medium/<@meet84046>/<0>
