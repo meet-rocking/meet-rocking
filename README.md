@@ -9,4 +9,4 @@ optimition                 |  Reinforcement Learning
 ![](animation.gif)         | ![](Pac_man.gif)  
 
 
-https://github-readme-medium-recent-article.vercel.app/medium/<@meet84046>/<0>
+https://github-readme-medium-recent-article.vercel.app/medium/@meet84046/0
