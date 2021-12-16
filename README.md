@@ -2,7 +2,7 @@ Hello!
 
 My name is Meet Patel. I am Machine Learning Specialist who loves to build Deep Learning and Reinforcement Learning models. 
 Loves to visualize ML:
-![](optimizer.gif)
+![](meet.gif)
 
 optimition                 |  Reinforcement Learning
 :-------------------------:|:-------------------------:
